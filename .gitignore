@@ -1,0 +1,7 @@
+*/__pycache__/
+
+# Its need for hide folder with encrypting script, dont offend, i wanna completely privacy for users :)
+./src/backend/crypto/
+
+# There is database file with all users (all mails will contain in sqlite3 file in your local computer because it will be easier to do)
+src/backend/storage/
